@@ -1,0 +1,7 @@
+.h1{
+    color: rgb(0, 126, 237);
+    border-radius: 0cap;
+    content: icon;
+    container: aling;
+    line-gap-override: 2;
+}

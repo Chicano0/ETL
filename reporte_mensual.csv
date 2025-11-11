@@ -1,0 +1,6 @@
+id_venta,producto,precio,cantidad,fecha,cliente,region
+2,Cable Hdmi,120.0,1,2025-05-09,Juan,Norte
+4,Camara Ip,980.0,1,2025-06-09,Ana,Centro
+5,Bocina Bluetooth,350.0,2,2025-07-09,Jose,Norte
+7,Adaptador Usb,90.0,1,2025-06-09,Karla,Sur
+10,Cable Auxiliar,80.0,2,2025-06-09,Lucia,Sur

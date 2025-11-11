@@ -1,0 +1,4 @@
+Modelo,Accuracy,Precision,Recall,F1-Score
+Árbol Decisión,1.0,1.0,1.0,1.0
+Random Forest,0.5,0.5,0.5,0.5
+RF Optimizado,0.5,0.5,0.5,0.5
