@@ -1,14 +1,6 @@
-
-=======
-1,"Cable Hdmi",120,2,2025-05-09,Juan,Norte
-3,"Audifonos Inalambricos",250,1,2025-09-06,Maria,Sur
-4,"Camara Ip",980,1,2025-06-09,Ana,Centro
-5,"Bocina Bluetooth",350,2,2025-07-09,Jose,Norte
-7,"Adaptador Usb",90,3,2025-06-09,Karla,Sur
-8,"Camara Ip",980,1,2025-09-06,Ana,Centro
-9,"Multimetro Digital",450,1,2025-09-05,Luis,Centro
-10,"Cable Auxiliar",80,2,2025-06-09,Lucia,Sur
-11,Pc,40,3,2025-07-09,Pepe,Pedro
-12,Pc,30,2,2025-08-09,Pepe,Pedrito2
-13,Laptop,500,1,2025-08-09,Pepe3,Pedrito4
-14,Laptop,500,1,2025-09-09,Pepe1,Carlos
+id_venta,producto,precio,cantidad,fecha,cliente,region
+2,Cable Hdmi,120.0,1,2025-05-09,Juan,Norte
+4,Camara Ip,980.0,1,2025-06-09,Ana,Centro
+5,Bocina Bluetooth,350.0,2,2025-07-09,Jose,Norte
+7,Adaptador Usb,90.0,1,2025-06-09,Karla,Sur
+10,Cable Auxiliar,80.0,2,2025-06-09,Lucia,Sur

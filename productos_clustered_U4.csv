@@ -1,0 +1,6 @@
+producto,precio_promedio,precio_std,precio_min,precio_max,cantidad_total,cantidad_promedio,num_ventas,rango_precio,valor_total_ventas,cluster
+Adaptador Usb,90.0,0.0,90.0,90.0,1,1.0,1,0.0,90.0,2
+Bocina Bluetooth,350.0,0.0,350.0,350.0,2,2.0,1,0.0,700.0,1
+Cable Auxiliar,80.0,0.0,80.0,80.0,2,2.0,1,0.0,160.0,1
+Cable Hdmi,120.0,0.0,120.0,120.0,1,1.0,1,0.0,120.0,2
+Camara Ip,980.0,0.0,980.0,980.0,1,1.0,1,0.0,980.0,0
